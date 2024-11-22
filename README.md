@@ -1,0 +1,1 @@
+# grocery-store-predefined-image-detector
